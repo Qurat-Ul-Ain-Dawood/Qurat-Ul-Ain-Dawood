@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Qurat-Ul-Ain Dawood</h1>
+<h3 align="center">Flutter App Developer | CS Student @ LCWU</h3>
 
-<!--
-**Qurat-Ul-Ain-Dawood/Qurat-Ul-Ain-Dawood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 About Me
+I'm a CS student at Lahore College for Women University, learning Flutter
+development by building real apps and sharing the process in public.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+Flutter state management (Provider), clean UI/UX design, and Firebase basics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 Collaboration
+Open to collaborating on Flutter UI projects and beginner-friendly open source.
+
+### 💬 Ask Me About
+Flutter widgets, Dart basics, UI layouts, and learning to code as a student.
+
+### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qurat-ul-ain-dawood-3793713b8/)
+
+### 🛠️ Tech Stack
+![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)
+![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+
+### 📧 Get in Touch
+LinkedIn: [https://www.linkedin.com/in/qurat-ul-ain-dawood-3793713b8/]
